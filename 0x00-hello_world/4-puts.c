@@ -5,6 +5,6 @@
 */
 int main(void)
 {
-write('\”Programming is like building a multilingual puzzle”);
+fwrite('\”Programming is like building a multilingual puzzle”);
 Return (0);
 }
