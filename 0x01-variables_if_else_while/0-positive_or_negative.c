@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <time.h>
-#include <sodlib.h>
 
 /**
 *main - determines if a number is positive,negative or zero
