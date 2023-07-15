@@ -1,17 +1,18 @@
 #include <stdio.h>
 
 /**
-*main - prints numbers from 0 to 9
-*return: always 0 (Success)
+* main - prints numbers from 0 to 9
+* Return: always 0 (Success)
 */
 
 int main(void)
 {
 	int i;
+
 	for (i = 0; i < 10; i++)
 	{
-		print("%d". i);
+		printf("%d", i);
 	}
 	putchar('\n');
-	return (0):
+return (0);
 }
