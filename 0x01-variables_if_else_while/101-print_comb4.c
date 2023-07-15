@@ -1,13 +1,14 @@
 #include <stdio.h>
 
 /**
-*main - prints all possible different combinations of three digits
-*return: always 0 (Success)
+* main - prints all possible different combinations of three digits
+* Return: always 0 (Success)
 */
 
 int main(void)
 {
 	int n, m, l;
+	
 	for (n = 48; n < 58; n++)
 	{
 		for (m = 48; m < 58; m++)
@@ -29,5 +30,5 @@ int main(void)
 		}
 	}
 	putchar('\n');
-	return (0);
+return (0);
 }
