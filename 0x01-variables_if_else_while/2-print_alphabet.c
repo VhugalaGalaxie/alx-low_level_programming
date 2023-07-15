@@ -2,7 +2,7 @@
 
 /**
 * main - prints the alphabet
-*
+* Description: 'the program's description'
 * return: Always 0 (Success)
 */
 
