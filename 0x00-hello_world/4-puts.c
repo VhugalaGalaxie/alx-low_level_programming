@@ -2,6 +2,9 @@
 
 /**
 * main – A program that prints a line with puts function
+*
+* Description: 'the program's description'
+*
 * Return : 0 (Success)
 */
 
