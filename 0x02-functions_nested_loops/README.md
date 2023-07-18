@@ -42,5 +42,8 @@ You are not allowed to publish any content of this project.
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
 More Info
 You do not have to understand the call by reference (address), stack, static variables, recursions or arrays, yet.
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 70a4ee75cb4fec556188da980bbf8cf320b0ff03
