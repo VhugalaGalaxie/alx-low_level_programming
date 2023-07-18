@@ -1,4 +1,4 @@
-*0x02. C - Functions, nested loops*
+**0x02. C - Functions, nested loops**
 By: Julien Barbier
 
 Resources
