@@ -30,7 +30,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 <li>Any form of plagiarism is strictly forbidden and will result in removal from the program. </li>
 </ul><br>
 
-<b>Requirements</b>
+<b>Requirements</b><br>
 <i>General</i>
 <ul>
 <li>Allowed editors: vi, vim, emacs</li>
