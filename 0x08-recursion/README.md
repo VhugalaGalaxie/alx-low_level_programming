@@ -18,10 +18,12 @@ By Julien Barbier
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 <br>
 <b>General</b>
-What is recursion
-How to implement recursion
-In what situations you should implement recursion
-In what situations you shouldn't implement recursion
+<ul>
+<li>What is recursion</li>
+<li>How to implement recursion</li>
+<li>In what situations you should implement recursion</li>
+<li>In what situations you shouldn't implement recursion</li>
+</ul>
 <br>
 <b>Requirements</b> <br>
 <i>General</i><br>
