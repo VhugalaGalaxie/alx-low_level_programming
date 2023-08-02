@@ -16,7 +16,7 @@ By Julien Barbier
 </ul>
 <br> <b>Learning Objectives</b> <br>
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-<br>
+<br><br>
 <b>General</b>
 <ul>
 <li>What is recursion</li>
